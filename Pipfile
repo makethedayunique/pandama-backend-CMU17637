@@ -1,0 +1,45 @@
+[[source]]
+url = "https://pypi.org/simple"
+verify_ssl = true
+name = "pypi"
+
+[packages]
+django = "*"
+whitenoise = "*"
+django-redis = "*"
+pymongo = {extras = ["srv"], version = "*"}
+mongoengine = "*"
+django-environ = "*"
+djangorestframework = "*"
+gunicorn = "*"
+psycopg2 = "*"
+djongo = "*"
+celery = "*"
+django-neomodel = "*"
+jsonpickle = "*"
+fontawesome-free = "*"
+beautifulsoup4 = "*"
+urllib3 = "*"
+lxml = "*"
+selenium = "*"
+webdriver-manager = "*"
+boto3 = "*"
+elasticsearch = "==7.13.0"
+elasticsearch-dsl = "==7.4.0"
+logtail-python = "*"
+django-redis-cache = "*"
+pillow = "*"
+neomodel = "*"
+neo4j = "*"
+install = "*"
+django-celery-beat = "*"
+pyyaml = "*"
+ua-parser = "*"
+user-agents = "*"
+django-user-agents = "*"
+
+[dev-packages]
+autopep8 = "*"
+
+[requires]
+python_version = "3.9"
