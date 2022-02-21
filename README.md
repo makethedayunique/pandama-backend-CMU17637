@@ -1,6 +1,6 @@
-# f21_team_15
+# Team Project
 
-This is a copy of Repository for f21_team_15 for 17637 in CMU in 2021 Fall
+This is a copy of Repository from my team project
 
 ## Project Brief
 
